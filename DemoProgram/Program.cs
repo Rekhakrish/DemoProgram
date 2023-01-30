@@ -10,7 +10,11 @@ namespace Training_One
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World ");
+            String s1 = "Rekha";
+            String s2 = "Ramya";
+            Console.WriteLine(s1);
+            Console.WriteLine("Hello World - Demo hello");
+
             Console.ReadLine();
         }
     }
