@@ -13,6 +13,7 @@ namespace Training_One
             String s1 = "Rekha";
             String s2 = "Ramya";
             Console.WriteLine(s1);
+            Console.WriteLine(s2);
             Console.WriteLine("Hello World - Demo hello");
 
             Console.ReadLine();
