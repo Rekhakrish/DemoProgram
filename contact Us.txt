@@ -1,0 +1,65 @@
+<HTML>
+
+<HEAD>
+
+<TITLE>Contact Us Page of ShowOnWheels</TITLE>
+
+<Body>
+    <style>
+     body{
+        background-image: url("Image/co3.jpeg");
+        background-size: 1900px 1000px;
+     }
+    </style>
+<DIV id="mainDivContainer" style="position: relative; width: 100%; margin-top: 0px; margin-bottom: 0px;">
+    
+    <DIV style="width: 1000px;  margin-top: 5px; margin-left: auto;margin-right:auto"> 
+    
+    <DIV style="width: 1000px; height:180px; float:left; padding-left:20px;">
+    
+    
+    
+    <DIV style="width:1000px; height:200px; float:left; text-align:center;margin-left: auto;margin-right:auto">
+       
+
+<h1><b><aling="center">Contact US for Any Queries </align> </b></h1>
+
+</DIV>
+<br>
+<br>
+
+<article>
+    <p><b><h2>Contact Us we are ready to help you</h2></b></p>
+      <p>Please drop us a message here! We will get back to you as early as we can solve your Queries</p>
+      <label for="username">Name </label>
+      <br>
+      <input type="text" id="username"     name="username" placeholder="Required your Name">
+      <br>
+      <br>
+      <label for="Email">Email </label><br>
+      <input type="text" id="Email"          name="Email" placeholder="Required">
+      <br>
+      <br>
+
+      <label for="Mobile Number">Mobile Number</label>
+      <br>
+      <input type="text" id="Mobile Number"  name="Mobile Number" required>
+      <br>
+      <br>
+      <label for="Message">Message Box</label>
+      <br>
+      <input type="text" id="Message"  name="Message" placeholder="Write some message to us ">
+      <br>
+      <br>
+      <br>
+      <input type="submit" value="Submit">
+</article>
+<br>
+<br>
+<DIV style="width:550px; height:50px; float:left; text-align:center;background-color: rgb(216, 209, 215);margin-left: auto;margin-right:auto">
+    <b>
+<p style="font-style: italic;font-size: larger;">Contact us Today +91 6875435765 | showonwheels@gmail.com</p></b>
+</DIV>
+</body>
+</head>
+</Html>
